@@ -90,4 +90,4 @@ Ingles B2 Avanzado Medio. Ellis-Introduction. LearnDirect. Council of London. (A
 # DATOS DE CONTACTO E INFORMACIÓN
 Correo electrónico: pascualcaballero@gmail.com
  [GitHub Sir-seawolf](https://github.com/sir-seawolf)
- ![Miguel Pascual Portrait](MiguelPascual-Portrait.jpg)
+ ![Miguel Pascual Portrait]("MiguelPascual-Portrait.jpg")
